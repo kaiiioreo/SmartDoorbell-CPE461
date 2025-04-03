@@ -1,5 +1,11 @@
 # smart_doorbell
 
+Get Firebase CLI via npm kato nvm install shi to work.
+Check all paths.
+
+
+
+
 A new Flutter project.
 
 ## Getting Started

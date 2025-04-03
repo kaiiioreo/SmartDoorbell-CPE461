@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94387615592",
+    "project_id": "smartdoorbellcpe461",
+    "storage_bucket": "smartdoorbellcpe461.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94387615592:android:2747a359c25ed0e68b88dd",
+        "android_client_info": {
+          "package_name": "com.example.smart_doorbell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LNWtWn1gIATo8RoqC8xUo-ZTPcHVmpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
